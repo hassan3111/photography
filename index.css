@@ -19,3 +19,16 @@ p{
     text-indent: 40px;
     text-align: justify;
 }
+img{
+    text-align: center;
+    max-width: 100%;
+    width: auto;
+    height: auto;
+}
+.begin{
+    height: 100%;
+    width: 100%;
+    margin: auto;
+    display: table;
+x    top: 0%;
+}
