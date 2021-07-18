@@ -32,7 +32,6 @@ nav ul, nav a:active{
     width: 60%;
     float: left;
     margin: 4% 0 4% 4%;
-    text-align:center ;
 }
 
 .sidebar{
@@ -45,6 +44,7 @@ nav ul, nav a:active{
     float: left;
     padding: 0%;
 }
-.photos img:hover{
-    opacity: 6;
+.clearfix{
+    clear: both;
+    height: 3%;
 }
