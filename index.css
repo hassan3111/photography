@@ -28,3 +28,14 @@ nav ul, nav a{
 nav ul, nav a:active{
     color: black;
 }
+.left-col{
+    width: 60%;
+    float: left;
+    margin: 4% 0 4% 4%;
+}
+
+.sidebar{
+    width: 26%;
+    float: left;
+    margin: 4%;
+}
