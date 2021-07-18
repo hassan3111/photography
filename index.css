@@ -1,3 +1,9 @@
 .begin{
     left: 24px;
 }
+h2{
+    text-align: center;
+    text-decoration: underline;
+    text-transform: capitalize;
+    color: blueviolet;
+}
