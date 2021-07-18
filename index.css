@@ -22,3 +22,9 @@ nav ul{
 nav ul, nav a{
     color: green;
 }
+ nav ul, nav a:hover{
+    color: hotpink;
+}
+nav ul, nav a:active{
+    color: black;
+}
